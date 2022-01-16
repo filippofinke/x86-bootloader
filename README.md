@@ -5,8 +5,8 @@
 <details>
  <summary>Demo</summary>
  <p align="center">
- !TODO
-</p>
+  <img src="https://user-images.githubusercontent.com/37296364/149657577-c7806537-97c3-4b46-8672-d03cf78905b9.gif">
+ </p>
 </details>
 
 ## Dependencies
