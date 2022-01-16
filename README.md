@@ -14,7 +14,7 @@
 - nasm
 - qemu
 
-## How to ue
+## How to use
 
 ```sh
 ./start.sh
